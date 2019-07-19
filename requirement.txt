@@ -1,0 +1,7 @@
+scipy
+sklearn
+numpy
+matplotlib
+librosa
+ffmpeg
+pyaudio
